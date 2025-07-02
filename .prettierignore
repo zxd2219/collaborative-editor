@@ -1,0 +1,10 @@
+node_modules
+dist
+coverage
+.turbo
+.next
+*.log
+.env*
+build
+.vscode
+.idea

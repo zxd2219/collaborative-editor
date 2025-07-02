@@ -1,0 +1,9 @@
+{
+  "files": [],
+  "references": [
+    { "path": "./apps/frontend" },
+    { "path": "./apps/backend" },
+    { "path": "./libs/shared-types" },
+    { "path": "./libs/shared-utils" }
+  ]
+}
